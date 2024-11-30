@@ -8,13 +8,13 @@ Sathana Mongkhon-IN
 📌 Student ID:
 6530200827
 
-📌 Academic Information:
+📌 __Academic Information__
 
-Major: Computer Science
+📌 Major: Computer Science
 
-Year: 3rd Year
+📌 Year: 3rd Year
 
-University: Kasetsart University
+📌 University: Kasetsart University
 
 ---
 🎯 About Me:
@@ -27,8 +27,8 @@ In his free time, Sathana enjoys exploring cutting-edge tech trends, coding proj
 Software Development
 Artificial Intelligence & Machine Learning
 Data Analysis Problem-Solving and Critical Thinking
----
 
+---
 🌟 Goals and Aspirations:
 Sathana aspires to leverage his technical expertise to contribute to groundbreaking projects that solve real-world problems. His ambition is to become a proficient computer scientist, shaping the future with impactful innovations.
 
