@@ -30,6 +30,8 @@ Data Analysis Problem-Solving and Critical Thinking
 🌟 Goals and Aspirations:
 I aspires to leverage his technical expertise to contribute to groundbreaking projects that solve real-world problems. His ambition is to become a proficient computer scientist, shaping the future with impactful innovations.
 
+---
+Work Week 1 : Ciphertext 
 
 
 
