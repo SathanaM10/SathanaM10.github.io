@@ -42,7 +42,7 @@ Ciphertext คือข้อความที่ถูกดัดแปลง
 
 ---
 
-🫂 BUDDY : [Thatthep Satharanaporn](https://bastackle.github.io/ciphertext)
+🫂 BUDDY : [Thatthep Satharanaporn (Ciphertext)](https://bastackle.github.io/ciphertext)
 
 
 
