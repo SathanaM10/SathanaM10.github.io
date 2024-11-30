@@ -8,8 +8,6 @@ Sathana Mongkhon-IN
 📌 Student ID:
 6530200827
 
-📌 __Academic Information__
-
 📌 Major: Computer Science
 
 📌 Year: 3rd Year
