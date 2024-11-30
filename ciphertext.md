@@ -32,7 +32,7 @@ Ciphertext คือข้อความที่ถูกดัดแปลง
 
 ---
 
-🫂 BUDDY : 
+🫂 BUDDY : [Thatthep Satharanaporn](https://bastackle.github.io/ciphertext)
 
 
 
