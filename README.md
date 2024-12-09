@@ -2,17 +2,17 @@
 
 ## 🌟 Personal Profile 🌟
 ---
--   Full Name:
+- Full Name:
 Sathana Mongkhon-IN
 
--   Student ID:
+- Student ID:
 6530200827
 
--   Major: Computer Science
+- Major: Computer Science
 
--   Year: 3rd Year
+- Year: 3rd Year
 
--   University: Kasetsart University
+- University: Kasetsart University
 
 ---
 🎯 About Me:
@@ -22,16 +22,16 @@ In his free time, I enjoys exploring cutting-edge tech trends, coding projects, 
 
 ---
 ✨ Core Interests and Skills:
--   Software Development
--   Artificial Intelligence & Machine Learning
--   Data Analysis Problem-Solving and Critical Thinking
+- Software Development
+- Artificial Intelligence & Machine Learning
+- Data Analysis Problem-Solving and Critical Thinking
 
 ---
 🌟 Goals and Aspirations:
 I aspires to leverage his technical expertise to contribute to groundbreaking projects that solve real-world problems. His ambition is to become a proficient computer scientist, shaping the future with impactful innovations.
 
 ---
--   Work Week 1 : [Ciphertext](https://sathanam10.github.io/ciphertext)
+- Work Week 1 : [Ciphertext](https://sathanam10.github.io/ciphertext)
 
 
 
