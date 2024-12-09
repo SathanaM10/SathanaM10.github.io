@@ -2,15 +2,15 @@
 
 ## 🌟 Personal Profile 🌟
 ---
--Full Name: Sathana Mongkhon-IN
+- Full Name: Sathana Mongkhon-IN
 
--Student ID: 6530200827
+- Student ID: 6530200827
 
--Major: Computer Science
+- Major: Computer Science
 
--Year: 3rd Year
+- Year: 3rd Year
 
--University: Kasetsart University
+- University: Kasetsart University
 
 ---
 🎯 About Me:
