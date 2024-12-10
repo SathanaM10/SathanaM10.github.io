@@ -29,7 +29,7 @@ In his free time, I enjoys exploring cutting-edge tech trends, coding projects, 
 I aspires to leverage his technical expertise to contribute to groundbreaking projects that solve real-world problems. His ambition is to become a proficient computer scientist, shaping the future with impactful innovations.
 
 ---
-- Work Week 1 : [Ciphertext](https://sathanam10.github.io/ciphertext)
+- Work Week 1 : [Ciphertext](ciphertext)
 
 
 
