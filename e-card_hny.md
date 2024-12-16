@@ -1,23 +1,29 @@
-# 🎄 Christmas and New Year 2025 🎆
+# 🎄 Holiday Season Celebration Invitation 🎉
 
-## E-Card Design
-![E-Card for Christmas and New Year 2025](https://github.com/username/my-ecard-page/blob/main/ecard.png?raw=true)
-
-✨ **Wishing you a Merry Christmas and a Happy New Year filled with joy, love, and success!** ✨  
-ส่งความสุขในปี 2025 ให้ทุกคนในครอบครัวและเพื่อนร่วมงาน 🎉  
+![Holiday Invitation](https://your-github-page-link/ecard.png)
 
 ---
 
-## 🔍 Hidden Message
-- ซ่อนชื่อและนามสกุลของฉันไว้ใน e-card:  
-  **Name**: Sathana  
-  **Surname**: Mongkhon-in  
+✨ **You are invited!** ✨  
 
-- เครื่องมือที่ใช้ในการซ่อนข้อความ: [Steganography Tool](https://stylesuxx.github.io/steganography/)
+## 🎁 Celebrate the HOLIDAY SEASON 🎁  
+**Fun | Wine | Food | Shopping**  
+
+📅 **Date**: Monday, December 25, 2023  
+🕙 **Time**: 10 PM till 12 AM  
+📍 **Location**: 123 Mian Street Christ Road 25  
+
+---
+
+### 🎅 Hosted By:  
+**Fredrick Johnson**  
+
+📞 **Contact**: 12345678908  
+🌐 **Website**: [www.christmas.com](http://www.christmas.com)
 
 ---
 
-## 🌐 GitHub Page
-สามารถดู e-card และถอดรหัสข้อความได้ที่หน้า [E-Card Page](https://username.github.io/my-ecard-page)  
+🔍 *ข้อความส่วนตัวถูกซ่อนในภาพด้านบน*  
+**ใช้เครื่องมือ**: [Steganography Tool](https://stylesuxx.github.io/steganography/)  
 
----
+🎊 *Wishing you a wonderful holiday season!* 🎊  
