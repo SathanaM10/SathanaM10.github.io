@@ -29,7 +29,9 @@ In his free time, I enjoys exploring cutting-edge tech trends, coding projects, 
 I aspires to leverage his technical expertise to contribute to groundbreaking projects that solve real-world problems. His ambition is to become a proficient computer scientist, shaping the future with impactful innovations.
 
 ---
+## 📝 Activity
 - Work Week 1 : [Ciphertext](ciphertext)
+- E-card Christmas & New Year 2025 : [E-card HNY2025](e-card_hny)
 
 
 
