@@ -1,4 +1,4 @@
-### Data Uniqueness
+__Data Uniqueness__
 
 __Source : [https://www.techtarget.com/searchdatamanagement/definition/data-quality](https://www.techtarget.com/searchdatamanagement/definition/data-quality)__
 
