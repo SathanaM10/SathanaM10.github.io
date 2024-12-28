@@ -32,7 +32,7 @@ I aspires to leverage his technical expertise to contribute to groundbreaking pr
 ## 📝 Activity
 - Work Week 1 : [Ciphertext](ciphertext)
 - E-card Christmas & New Year 2025 : [E-card HNY2025](e-card_hny)
-- Data Quality : [(Data Uniqueness)](DataUniqueness)
+- Data Quality : [(Data Uniqueness)](data-uniqueness)
 
 
 
