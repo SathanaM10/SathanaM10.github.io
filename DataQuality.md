@@ -4,3 +4,20 @@ __Source : [https://www.sagacitysolutions.co.uk/about/news-and-blog/data-quality
 
 __Definition__
 - Data uniqueness is achieved when information in the dataset only appears once. This data quality dimension measures the extent of duplication. For example, data uniqueness would identify instances where there are multiple data entries for the same contact. Even if certain fields are unique amongst two records for the same contact, this would still be considered duplicate data. For instance, a contact might be in the database twice, with two different email addresses. The chances are that only one of these addresses is accurate, making it important to ensure data uniqueness throughout.
+
+__Meaning by ChatGPT__
+- Data Uniqueness (ความเป็นเอกลักษณ์ของข้อมูล) หมายถึงลักษณะหรือคุณสมบัติของข้อมูลที่ระบุว่าข้อมูลชุดหนึ่งไม่มีความซ้ำซ้อนกับข้อมูลอื่น หรือข้อมูลในชุดนั้นมีตัวระบุเฉพาะ (Unique Identifier) ซึ่งสามารถแยกความแตกต่างจากข้อมูลอื่น ๆ ได้อย่างชัดเจน
+
+__องค์ประกอบสำคัญของ Data Uniqueness__
+1. ตัวระบุเฉพาะ (Unique Identifier)
+    - เป็นค่าหรือชุดของค่าที่ใช้ระบุข้อมูลแต่ละรายการในชุดข้อมูลอย่างชัดเจน เช่น
+    - หมายเลขบัตรประชาชน
+    - หมายเลขประจำตัวสินค้า (SKU)
+    - รหัสนักศึกษา
+ตัวระบุเหล่านี้ช่วยให้ข้อมูลแต่ละรายการมีเอกลักษณ์ไม่ซ้ำกับข้อมูลอื่นในฐานข้อมูลเดียวกัน
+
+2. การไม่มีข้อมูลซ้ำซ้อน (No Duplication)
+    - หมายถึงข้อมูลแต่ละรายการในชุดข้อมูลต้องไม่ซ้ำกัน เช่น ถ้ามีชื่อบุคคลซ้ำกัน ระบบต้องสามารถแยกความแตกต่างด้วยข้อมูลอื่น เช่น หมายเลขโทรศัพท์ หรือรหัสพนักงาน
+
+3. การจัดการข้อมูลที่เหมือนกัน (Duplicate Data Management)
+    - ในบางกรณี ระบบต้องตรวจสอบและกำจัดข้อมูลที่ซ้ำซ้อนหรือทำให้ข้อมูลเป็นเอกลักษณ์ เช่น การรวมข้อมูลลูกค้าซ้ำในฐานข้อมูล CRM
