@@ -3,7 +3,7 @@
 __Source : [https://www.sagacitysolutions.co.uk/about/news-and-blog/data-quality-dimensions/](https://www.sagacitysolutions.co.uk/about/news-and-blog/data-quality-dimensions/)__
 
 __📖 Definition__
-- Data uniqueness is achieved when information in the dataset only appears once. This data quality dimension measures the extent of duplication. For example, data uniqueness would identify instances where there are multiple data entries for the same contact. Even if certain fields are unique amongst two records for the same contact, this would still be considered duplicate data. For instance, a contact might be in the database twice, with two different email addresses. The chances are that only one of these addresses is accurate, making it important to ensure data uniqueness throughout.
+- Data uniqueness is achieved when information in the dataset only appears once. This data quality dimension measures the extent of duplication. 
 
 __🔍 Meaning by ChatGPT__
 - Data Uniqueness (ความเป็นเอกลักษณ์ของข้อมูล) หมายถึงลักษณะหรือคุณสมบัติของข้อมูลที่ระบุว่าข้อมูลชุดหนึ่งไม่มีความซ้ำซ้อนกับข้อมูลอื่น หรือข้อมูลในชุดนั้นมีตัวระบุเฉพาะ (Unique Identifier) ซึ่งสามารถแยกความแตกต่างจากข้อมูลอื่น ๆ ได้อย่างชัดเจน
