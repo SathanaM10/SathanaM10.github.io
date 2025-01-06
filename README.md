@@ -35,6 +35,12 @@ I aspires to leverage his technical expertise to contribute to groundbreaking pr
 - Data Quality : [(Data Uniqueness)](data-uniqueness)
 - Securing the Human : [5 Club People](boardgame)
 
+## 🗂️ Project
+- [Transportation Statistics Dashboard](https://public.tableau.com/app/profile/sathana.mongkhon.in/viz/ProjectDashboard_17289860541960/Dashboard)
+- [E-commerce Product Display Web Application](https://github.com/SathanaM10/my-demo-nextjs)
+- [E-commerce Management Platform Development (AirStore)](https://www.figma.com/proto/Jnjkzni0odZwIX6qNDjij8/Untitled?node-id=30-879&t=ErI3xLQ9jQTR6ezI-1&starting-point-node-id=30%3A879)
+- [Tourism Analytics Dashboard Development](https://drive.google.com/drive/folders/1FZrrt1Om18EUSEcy3g5IJdlATlpKO9_C)
+- [Inventory Management System for Grocery Stores](https://drive.google.com/drive/folders/1mu8kZ2zWQeSzOW5bu54w9EDl1rfZIGvu?usp=drive_link)
 
 
 
