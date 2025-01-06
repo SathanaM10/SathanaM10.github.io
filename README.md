@@ -35,6 +35,7 @@ I aspires to leverage his technical expertise to contribute to groundbreaking pr
 - Data Quality : [(Data Uniqueness)](data-uniqueness)
 - Securing the Human : [5 Club People](boardgame)
 
+---
 ## 🗂️ Project
 - [Transportation Statistics Dashboard](https://public.tableau.com/app/profile/sathana.mongkhon.in/viz/ProjectDashboard_17289860541960/Dashboard)
 - [E-commerce Product Display Web Application](https://github.com/SathanaM10/my-demo-nextjs)
