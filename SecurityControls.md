@@ -4,20 +4,7 @@
 
 __สถานที่ : หอพักเย็นสบายไฮคลาส 224/66 หมู่ 8 ตำบลทุ่งสุขลา อำเภอศรีราชา ชลบุรี 20230__
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![image](image/SecurityControls.jpg)
 
 - Types of Security Controls: Physical Controls
 - Control Functions: Preventative
