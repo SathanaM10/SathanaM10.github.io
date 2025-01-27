@@ -34,7 +34,7 @@ I aspires to leverage his technical expertise to contribute to groundbreaking pr
 - E-card Christmas & New Year 2025 : [E-card HNY2025](e-card_hny)
 - Data Quality : [(Data Uniqueness)](data-uniqueness)
 - Securing the Human : [5 Club People](boardgame)
-- Security Controls : [Example of Security Controls in Daily Life](security-controls)
+- Security Controls : [Example of Security Controls in Daily Life](security-control)
 
 ---
 ## 🗂️ Project
