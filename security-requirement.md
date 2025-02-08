@@ -1,4 +1,5 @@
-## OWASP Application Security Verification Standard 
+## OWASP Application Security Verification Standard
+ 
 __V12.5.1 : File Download__
 
 - Verify that the web tier is configured to serve only files with specific file
