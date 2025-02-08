@@ -35,6 +35,7 @@ I aspires to leverage his technical expertise to contribute to groundbreaking pr
 - Data Quality : [(Data Uniqueness)](data-uniqueness)
 - Securing the Human : [5 Club People](boardgame)
 - Security Controls : [Example of Security Controls in Daily Life](security-control)
+- Security-requirement : [V12.5 File Download](security-requirement)
 
 ---
 ## 🗂️ Project
