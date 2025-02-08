@@ -1,4 +1,5 @@
-__V12.5.1 : File Download__
+## OWASP Application Security Verification Standard 
+__V12.5.1 : File Download Security Configuration__
 
 - Verify that the web tier is configured to serve only files with specific file
 extensions to prevent unintentional information and source code leakage.
