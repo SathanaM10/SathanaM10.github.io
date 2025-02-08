@@ -19,3 +19,14 @@ editors should be blocked unless required.
 
 
 - 💡 My Summary
+
+
+
+
+
+
+
+
+
+
+🫂 BUDDY : [Thatthep Satharanaporn (security-requirement)]()
